@@ -19,6 +19,8 @@ class Agenda:
             self.contactos.append(self.nombre)
             print(self.nombre, "no esta. Ahora la nueva lista es", self.contactos)
     
+    def editar (self):
+        
 agenda = Agenda()
 agenda.añadir()
 agenda.buscar()
