@@ -8,8 +8,7 @@ def sumatorio(n):
     else:
         return 0
 
-resultado = sumatorio(4)
-print(resultado)
+print(sumatorio(4))
 
     
 #B)   
